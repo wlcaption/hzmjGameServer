@@ -7,7 +7,7 @@ public class NanjingConfig {
     public static int[] ROOMCARD = { 8, 16, 32 };
     public static int[] YUANZI_ROOMCARD = { 4, 8, 16 };
     public static int HUA_INDEX = 31;
-    public static int PAI_COUNT = 42;
+    public static int PAI_COUNT = 28;
     public static int[] ROUND_SET = { 4, 8, 16 };
     public static int ROUND_DEFAULT = 4;
     public static int SCORE_DEFAULT = 2000;
